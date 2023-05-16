@@ -13,7 +13,7 @@ export default function Videos({ videos }) {
 
   // page title
   useEffect(() => {
-    document.title='Videos | Divine Tour and Travels';
+    document.title='Videos | Perfect Tours and Events';
   });
 
   return (

@@ -9,7 +9,7 @@ export default function Contact() {
 
   // page title
   useEffect(() => {
-    document.title='Contact | Divine Tour and Travels';
+    document.title='Contact | Perfect Tours and Events';
   });
 
   return (

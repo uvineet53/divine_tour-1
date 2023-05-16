@@ -27,7 +27,7 @@ export default function VideoDetails({ videos, gallery }) {
   return (
     <>
       {/* dynamic page title */}
-      <p className="d-none">{document.title=`${videoDetails.name} | Divine Tour and Travels`}</p>
+      <p className="d-none">{document.title=`${videoDetails.name} | Perfect Tours and Events`}</p>
 
       {/* page header */}
       <section className='page-header-area'>

@@ -28,7 +28,7 @@ export default function HospitalDetails({ hospitals, gallery }) {
   return (
     <>
       {/* dynamic page title */}
-      <p className="d-none">{document.title=`${hospitalDetails.name} | Divine Tour and Travels`}</p>
+      <p className="d-none">{document.title=`${hospitalDetails.name} | Perfect Tours and Events`}</p>
 
       {/* page header */}
       <section className='page-header-area'>

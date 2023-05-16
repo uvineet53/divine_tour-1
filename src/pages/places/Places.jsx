@@ -12,9 +12,9 @@ export default function Places({ places }) {
 
   // page title
   useEffect(() => {
-    document.title='Places | Divine Tour and Travels';
+    document.title='Places | Perfect Tours and Events';
     console.log(places)
-    
+
   });
 
   return (

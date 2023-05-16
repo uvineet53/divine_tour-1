@@ -49,7 +49,7 @@ export default function Header() {
             show={ isMobile ? showOffCanvas : '' } onHide={toggleOffCanvas}>
             <Offcanvas.Header closeButton>
               <Offcanvas.Title id="offcanvasNavbarLabel-expand-lg">
-                Divine Tour and Travels
+                Perfect Tours and Events
               </Offcanvas.Title>
             </Offcanvas.Header>
             <Offcanvas.Body>

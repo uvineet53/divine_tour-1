@@ -9,7 +9,7 @@ import PopularVideos from './PopularVideos';
 export default function Home({ placeLoding, places }) {
 
   useEffect(() => {
-    document.title='Home | Divine Tour and Travels';
+    document.title='Home | Perfect Tours and Events';
   });
 
   return (

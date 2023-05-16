@@ -11,7 +11,7 @@ export default function About() {
 
   // page title
   useEffect(() => {
-    document.title='About | Divine Tour and Travels';
+    document.title='About | Perfect Tours and Events';
   });
 
   return (

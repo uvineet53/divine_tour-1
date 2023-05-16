@@ -12,7 +12,7 @@ export default function Hospitals({ hospitals }) {
   // page title
   useEffect(() => {
     console.log(hospitals);
-    document.title = "Hospitals | Divine Tour and Travels";
+    document.title = "Hospitals | Perfect Tours and Events";
   });
 
   return (

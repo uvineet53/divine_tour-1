@@ -11,7 +11,7 @@ export default function Index( {gallery} ) {
 
   // page title
   useEffect(() => {
-    document.title='Gallery | Divine Tour and Travels';
+    document.title='Gallery | Perfect Tours and Events';
   });
 
   return (

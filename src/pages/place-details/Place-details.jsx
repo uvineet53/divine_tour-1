@@ -27,7 +27,7 @@ export default function PlaceDetails({ places }) {
     <>
       {/* dynamic page title */}
       <p className="d-none">
-        {(document.title = `${placeDetails.name} | Divine Tour and Travels`)}
+        {(document.title = `${placeDetails.name} | Perfect Tours and Events`)}
       </p>
 
       {/* page header */}
