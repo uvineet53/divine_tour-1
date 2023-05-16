@@ -31,12 +31,8 @@ export default function About() {
               <div className="about-content">
                 <h3 className="text-red mb-3">HOW WE ARE BEST FOR TRAVEL !</h3>
                 <p className="text-ash">
-                DIVINE TOUR AND EVENTS is all set to offer inbound tours to charming destinations across the world. The company is dedicated to provide quality tourism products and ensure that its partners get new products as well as unbeatable value add-ons to existing product lines, with the aim of maximizing established and successful relationships and creating high yielding business opportunities.
-                  <br />
-                  DIVINE offers expert local knowledge and logistical fulfillment and has experience in managing large incentive groups, cultural tours and special interest tours. Whether it's a well earned incentive programme or a special interest group, the objective at DIVINE is to instill a sense of reward and fulfillment through well designed itineraries.
-                  <br/>
-                  DIVINE designs and operates programme for conference organizers, travel agents, associations and corporations for a truly satisfying, enthralling and authentic Indian experience.
-                </p>
+                PERFCT TOURS AND EVENTS  is the best  travel platform.. We helps around 4lakh  travellers each month. We make every trip the best trip for you. Travelers across India contact us for their trips and  Entrust us with the tour planning and we will take care of all the niggling worries right from booking tickets, hotel accommodation, arranging transportation to organizing the itinerary plan which will be unique and exciting. Owing to our experience , we narrow down up to the minutest detail to plan and develop exclusive tour packages helping our clients enjoy the most beautiful sights across the world. You would love it..!
+               </p>
               </div>
             </Col>
           </Row>

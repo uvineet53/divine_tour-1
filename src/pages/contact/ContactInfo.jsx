@@ -25,7 +25,7 @@ export default function Contact() {
                 <span className="icon mb-4"><FaPhoneAlt /></span>
                 <h4 className='text-black text-uppercase'>PHONE NUMBER</h4>
                 <ul>
-                  <li>+91-7011255685</li>
+                  <li>+91-8287037381</li>
                 </ul>
               </div>
             </Col>
@@ -34,7 +34,7 @@ export default function Contact() {
                 <span className="icon mb-4"><FaMapMarkerAlt /></span>
                 <h4 className='text-black text-uppercase'>ADDRESS LOCATION</h4>
                 <ul>
-                  <li>Sector 46, Gurgaon, India</li>
+                  <li>Rakhi Trading Co., 1st Floor, 523D, Pataudi Road, Gharoli Khurd, Gurugram</li>
                 </ul>
               </div>
             </Col>

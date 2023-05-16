@@ -22,40 +22,40 @@ export default function Home() {
             <figcaption>
               <blockquote>
                 <p>
-                I am just so happy to share my experience with you. The team is really co-operative, trustworthy. They managed everything for us.
+                Co-operative team, the tour was really unforgettable. It was really very well coordinated and was hustle free too. I really love this experience.
                 </p>
               </blockquote>
-              <h3>Ayesha sharma</h3>
+              <h3>Manisha Nayar</h3>
             </figcaption>
           </figure>
           <figure className="snip1533">
             <figcaption>
               <blockquote>
                 <p>
-                Guys, this is one of the best travel company they give best services at reasonable prices.It was so easy and effortless to book and even everything was managed by them to the last detail.
+                Best company, I’m really happy.   Good services, nice experience. Trustworthy team.
                 </p>
               </blockquote>
-              <h3>Lakshay kumar</h3>
+              <h3>Tushar Saini</h3>
             </figcaption>
           </figure>
           <figure className="snip1533">
             <figcaption>
               <blockquote>
                 <p>
-                I highly recommend them for all future travels. My wife and I had an amazing experience in our Dubai tour. The hotels booked were really good as well as the food served was excellent.
+                Nice services, this is one of the best travel company they give best services at reasonable prices.it was so easy and effortless to book and even everything was managed by them to the last detail. 
                 </p>
               </blockquote>
-              <h3>Aniket Bhardwaj</h3>
+              <h3>Pankaj Burnal</h3>
             </figcaption>
           </figure>
           <figure className="snip1533">
             <figcaption>
               <blockquote>
                 <p>
-                It was their efforts that want us to travel with them again. All services were excellent and as per expectations. Thanks for making our trip the most memorable one.
+                Mne first time aise tour package liya thh or sachi btau to wo umeed  nhi but ya mujhe bhut khushi hui inke efforts , service..sb bhut acha thh mujhe bhut pasand aya or m to aage s yhin se travel service lunga .. I’m really satisfied.
                 </p>
               </blockquote>
-              <h3>Vanshika Mittal</h3>
+              <h3>Vikas Bskshi</h3>
             </figcaption>
           </figure>
         </Container>
