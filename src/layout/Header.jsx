@@ -56,7 +56,6 @@ export default function Header() {
               <Nav className="ms-auto">
                 <Link to="/" className='nav-link' onClick={toggleOffCanvas}>Home</Link>
                 <Link to="/places" className='nav-link' onClick={toggleOffCanvas}>Packages</Link>
-                <Link to="/hospitals" className='nav-link' onClick={toggleOffCanvas}>Medical Tourism</Link>
                 <Link to="/about" className='nav-link' onClick={toggleOffCanvas}>About</Link>
                 <Link to="/contact" className='nav-link' onClick={toggleOffCanvas}>Contact</Link>
               </Nav>
