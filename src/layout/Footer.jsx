@@ -1,9 +1,6 @@
 import React from 'react';
-import {Link} from 'react-router-dom';
-import {Col, Container, Row} from 'react-bootstrap';
+import {Container} from 'react-bootstrap';
 
-// images
-import logo from '../assets/img/logo.png';
 
 export default function Footer() {
   return (
@@ -15,7 +12,7 @@ export default function Footer() {
       {/* footer bottom start */}
       <div className="footer-bottom py-3">
         <Container>
-          <p className="text-center text-white">&copy; { new Date().getFullYear() } - All rights reserved by Perfect Tours and Events.</p>
+          <p className="text-center text-white">&copy; 2016- All rights reserved by Perfect Tours and Events.</p>
         </Container>
       </div>
     </>

@@ -42,7 +42,7 @@ export default function Header() {
       <Navbar expand="lg" variant="dark">
         <Container>
           <Link to="/" className='navbar-brand'>
-            <Image src={logo} className='logo' style={{"width":"7vw"}}/>
+            {/* <Image src={logo} className='logo' style={{"width":"7vw"}}/> */}
           </Link>
           <Navbar.Toggle aria-controls="offcanvasNavbar-expand-lg" onClick={toggleOffCanvas} />
           <Navbar.Offcanvas id="offcanvasNavbar-expand-lg" placement="end"
@@ -56,6 +56,7 @@ export default function Header() {
               <Nav className="ms-auto">
                 <Link to="/" className='nav-link' onClick={toggleOffCanvas}>Home</Link>
                 <Link to="/places" className='nav-link' onClick={toggleOffCanvas}>Packages</Link>
+                <Link to="/hospitals" className='nav-link' onClick={toggleOffCanvas}>Medical Tourism</Link>
                 <Link to="/about" className='nav-link' onClick={toggleOffCanvas}>About</Link>
                 <Link to="/contact" className='nav-link' onClick={toggleOffCanvas}>Contact</Link>
               </Nav>

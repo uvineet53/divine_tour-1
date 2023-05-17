@@ -1,6 +1,6 @@
 .snip153 {
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.15);
-    color: #01959a;
+    color: #ff5e62;
     display: inline-block;
     font-size: 16px;
     margin: 35px 10px 10px;
@@ -10,7 +10,7 @@
     text-align: center;
     width: 100%;
     background-color: #ffffff;
-    border-top: 5px solid #01959a;
+    border-top: 5px solid #ff5e62;
     padding-top: 10px;
   }
   
@@ -29,13 +29,13 @@
   .snip153 figcaption:before {
     background-color: #fff;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.25);
-    color: #01959a;
+    color: #ff5e62;
     font-size: 32px;
     font-style: normal;
   }
   
   .snip153 h3 {
-    color: #01959a;
+    color: #ff5e62;
     font-size: 20px;
     font-weight: 300;
     line-height: 30px;

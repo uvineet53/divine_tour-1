@@ -12,7 +12,6 @@ import Home from "./pages/home/Home";
 import Places from "./pages/places/Places";
 import PlaceDetails from "./pages/place-details/Place-details";
 import HospitalDetails from "./pages/hospital-details/Hospital-Details";
-import Gallery from "./pages/gallery/Index";
 import About from "./pages/about/About";
 import Contact from "./pages/contact/Contact";
 import Hospitals from "./pages/hospital/Hospitals";
@@ -36,7 +35,6 @@ function App() {
       (snapshot) => {
         let placeList = [];
         snapshot.docs.forEach((doc) => {
-          if(doc.data().name === "Singapore" || doc.data().name==="Vietnam" || doc.data().name == "Maldives" || doc.data().name=="Pattaya"||doc.data().name=="Dubai"|| doc.data().name=="Bangkok")
           placeList.push({ id: doc.id, ...doc.data() });
         });
         setPlaces(placeList);

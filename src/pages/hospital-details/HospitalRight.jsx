@@ -1,23 +1,10 @@
 import React from 'react';
 
 // slick slider 
-import Slider from "react-slick";
 import "../../assets/plugins/slick/slick.css"; 
 import "../../assets/plugins/slick/slick.theme.css";
 
 export default function HospitalDetails({ gallery }) {
-
-  // slick slider
-  const slickSettings = {
-    dots: true,
-    arrows: false,
-    infinite: true,
-    speed: 1500,
-    autoplay: true,
-    autoplaySpeed: 4000,
-    slidesToShow: 2,
-    slidesToScroll: 1
-  };
 
   return (
     <>
