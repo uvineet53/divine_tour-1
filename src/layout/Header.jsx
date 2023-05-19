@@ -42,7 +42,7 @@ export default function Header() {
       <Navbar expand="lg" variant="dark">
         <Container>
           <Link to="/" className='navbar-brand'>
-            <Image src={logo} className='logo' style={{"width":"7vw"}}/>
+            {/* <Image src={logo} className='logo' style={{"width":"7vw"}}/> */}
           </Link>
           <Navbar.Toggle aria-controls="offcanvasNavbar-expand-lg" onClick={toggleOffCanvas} />
           <Navbar.Offcanvas id="offcanvasNavbar-expand-lg" placement="end"
