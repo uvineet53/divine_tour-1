@@ -5,12 +5,13 @@ import { getStorage } from "firebase/storage";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyCWSD-gDAGbgMt-6ymdXVKrfVcdFe1qBZQ",
-  authDomain: "react-todo-19247.firebaseapp.com",
-  projectId: "react-todo-19247",
-  storageBucket: "react-todo-19247.appspot.com",
-  messagingSenderId: "628339363445",
-  appId: "1:628339363445:web:a5991230da5671ef5e723c"
+  apiKey: "AIzaSyArE3u0Cu9O1N0Gwx6uMXL5ULVFBBDHViQ",
+  authDomain: "divine-tour-e79b8.firebaseapp.com",
+  databaseURL: "https://divine-tour-e79b8-default-rtdb.firebaseio.com",
+  projectId: "divine-tour-e79b8",
+  storageBucket: "divine-tour-e79b8.appspot.com",
+  messagingSenderId: "691853524175",
+  appId: "1:691853524175:web:d37b131faadc237de70bba"
 };
 
 // Initialize Firebase
