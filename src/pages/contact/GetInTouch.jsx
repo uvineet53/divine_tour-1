@@ -127,8 +127,8 @@ const handleSubmit = async (e) => {
             <Col md={5}>
               {/* map */}
               
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3508.198913898121!2d76.98171277641849!3d28.443419575768655!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d17c4cf845833%3A0xe57fc2da00416032!2sRakhi%20Trading%20Company!5e0!3m2!1sen!2sin!4v1684434082456!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-// <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7016.899894927275!2d77.05387907709715!3d28.43584981441063!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d1888054e2d75%3A0xa49245f339865ca2!2sSector%2046%2C%20Gurugram%2C%20Haryana%20122022!5e0!3m2!1sen!2sin!4v1681026268972!5m2!1sen!2sin" title="map" className='rounded' width="100%" height="350" loading="lazy"></iframe>
+<iframe title = "Maps" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3508.198913898121!2d76.98171277641849!3d28.443419575768655!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d17c4cf845833%3A0xe57fc2da00416032!2sRakhi%20Trading%20Company!5e0!3m2!1sen!2sin!4v1684434082456!5m2!1sen!2sin" width="600" height="450" style={{"border":0}} allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+{/* <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7016.899894927275!2d77.05387907709715!3d28.43584981441063!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d1888054e2d75%3A0xa49245f339865ca2!2sSector%2046%2C%20Gurugram%2C%20Haryana%20122022!5e0!3m2!1sen!2sin!4v1681026268972!5m2!1sen!2sin" title="map" className='rounded' width="100%" height="350" loading="lazy"></iframe> */}
             </Col>
           </Row>
         </Container>
