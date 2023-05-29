@@ -16,7 +16,9 @@ export default function Contact() {
                 <span className="icon mb-4"><FaRegEnvelope /></span>
                 <h4 className='text-black text-uppercase'>email address</h4>
                 <ul>
-                  <li>support@gmail.com</li>
+                  <li>accounts@perfecttoursandevents.com</li>
+                  <li>info@perfecttoursandevents.com</li>
+                  <li>sales@perfecttoursandevents.com</li>
                 </ul>
               </div>
             </Col>
